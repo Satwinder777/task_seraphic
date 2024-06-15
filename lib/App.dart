@@ -14,10 +14,8 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         themeMode: ThemeMode.system,
         home:  SafeArea(child: HomeScreen()),
-// Satwinder code here
-
-// sadak code
-
+      ////fresh code by satwinder branch
+      //master
       );
   }
 }
