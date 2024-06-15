@@ -482,7 +482,7 @@ class HomeScreen extends StatefulWidget {
   final list = [
     BusinessModel(title: '', data: "demo1"),
     BusinessModel(title: 'MyJobs', data: "demo2"),
-    BusinessModel(title: 'Estimates', data: "demo3")
+    BusinessModel(title: 'Estimates', data: "demo_sadak")
   ];
 
   @override
